@@ -1,83 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e213bfe5-9440-4c59-b0eb-8da48400ab9a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cloud-config-center-3344/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/ming/springcloud/GatewayMain9527.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/ming/springcloud/config/GateWayConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/java/com/ming/springcloud/filter/GateWayGlobalFilter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cloud-gateway-gateway9527/src/test/java/com/ming/springcloud/TimeUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-api-commons/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/ming/springcloud/entity/CommentResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-api-commons/target/classes/com/ming/springcloud/entity/Payment.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/ming/springcloud/OrderFeignHystrixMain80.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/ming/springcloud/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/ming/springcloud/service/OrderFeignHystrixService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/target/classes/com/ming/springcloud/service/PaymentFallbackService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/META-INF/cloud-consumer-feign-order80.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/ming/springcloud/OrderFeignMain80.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/ming/springcloud/config/FeignConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/ming/springcloud/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-feign-order80/target/classes/com/ming/springcloud/service/PaymentFeignService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboar9001/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-hystrix-dashboar9001/target/classes/com/ming/springcloud/HystrixDashboardMain9001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/META-INF/cloud-provider-order80.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/ming/myrule/MyselfRule.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/ming/springcloud/OrderMain80.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/ming/springcloud/config/ApplicationContextConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/ming/springcloud/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/com/ming/springcloud/OrderZkMain80.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/com/ming/springcloud/config/ApplicationContextConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-consumerzk-order80/target/classes/com/ming/springcloud/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-cunsumerconsul-order80/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-cunsumerconsul-order80/target/classes/com/ming/springcloud/OrderConsulMain80.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-cunsumerconsul-order80/target/classes/com/ming/springcloud/config/ApplicationContextConfig.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-cunsumerconsul-order80/target/classes/com/ming/springcloud/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/com/ming/springcloud/EurekaMain7001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7002/target/classes/com/ming/springcloud/EurekaMain7002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/META-INF/cloud-provider-hystrix-payment8001.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/ming/springcloud/PaymentHystrixMain8001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/ming/springcloud/controller/PaymentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/ming/springcloud/service/PaymentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/ming/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/ming/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/ming/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/META-INF/cloud-provider-payment8001.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/META-INF/payment8001.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/ming/springcloud/PaymentMain8001.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/ming/springcloud/controller/PaymentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/ming/springcloud/dao/PaymentDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/ming/springcloud/service/IPaymentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/ming/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/mapper/PaymentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8001/target/test-classes/com/ming/springcloud/test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/ming/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/main/java/com/ming/springcloud/controller/PaymentController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/ming/springcloud/PaymentMain8002.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/ming/springcloud/controller/PaymentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/ming/springcloud/dao/PaymentDao.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/ming/springcloud/service/IPaymentService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/ming/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/mapper/PaymentMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/target/classes/META-INF/cloud-provider-payment8004.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/target/classes/com/ming/springcloud/PaymentMain8004.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8004/target/classes/com/ming/springcloud/controller/PaymentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/target/classes/application.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/target/classes/com/ming/springcloud/PaymentConsulMain8006.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-providerconsul-payment8006/target/classes/com/ming/springcloud/controller/PaymentController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e213bfe5-9440-4c59-b0eb-8da48400ab9a" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -393,7 +317,7 @@
       <workItem from="1632397158144" duration="2307000" />
       <workItem from="1632825115503" duration="594000" />
       <workItem from="1633599369544" duration="957000" />
-      <workItem from="1646819336021" duration="347000" />
+      <workItem from="1646819336021" duration="641000" />
     </task>
     <servers />
   </component>
